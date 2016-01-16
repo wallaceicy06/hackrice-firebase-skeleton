@@ -1,0 +1,1 @@
+# hackrice-firebase-skeleton
