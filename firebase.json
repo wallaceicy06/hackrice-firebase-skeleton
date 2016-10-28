@@ -1,0 +1,9 @@
+{
+  "firebase": "hackrice2015-sharger",
+  "public": "public",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
